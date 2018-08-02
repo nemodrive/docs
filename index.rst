@@ -15,7 +15,7 @@ Browse below for the docs of each subproject.
    :maxdepth: 2
    :caption: Table of contents:
    
-   Car Data Collection <https://nemodrive-docs.readthedocs.io/projects/car_data_collection/en/latest/index.html>
+   Car Data Collection <https://nemodrive-docs.readthedocs.io/projects/car_data_collection/en/latest/>
 
 
 
