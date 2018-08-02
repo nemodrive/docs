@@ -6,9 +6,16 @@
 Welcome to nemodrive's documentation!
 =====================================
 
+This is the main page of documentation for software and hardware development
+in the AutoDrive project at UPB (codenamed _nemodrive_).
+
+Browse below for the docs of each subproject.
+
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Table of contents:
+
+
 
 
 
