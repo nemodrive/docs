@@ -17,9 +17,6 @@ Browse below for the docs of each subproject.
    
    Car Data Collection <https://nemodrive-docs.readthedocs.io/projects/car_data_collection/en/latest/>
 
-   Car Data Collection <https://nemodrive-docs.readthedocs.io/projects/car_data_collection/en/latest/>
-
-
 
 
 
